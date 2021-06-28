@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    color: rgb(0, 0, 0);
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.8rem;
+    z-index: 2;
+}
+
+.loginBtn{
+    border: solid 2px #1976D2;
+    border-radius: 10px;
+    color: black;
+    font-size: small;
+    padding: 0.5rem;
+}
+
+.loginBtn:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.addExpense{
+    color: rgb(100, 0, 214);
+    margin-top: 5rem;
+}
+
+.addExpenseText{
+    margin-top: 0.5rem;
+}
+
+.addExpenseCategory{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 1rem;
+}

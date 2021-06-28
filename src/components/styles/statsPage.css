@@ -1,0 +1,12 @@
+.detailedStats{
+    background-color: white;
+    border-radius: 15px;
+    color: #1976D2;
+    margin: 1rem;
+    padding: 1rem;
+    overflow:hidden;
+}
+
+.invisible{
+    height: 3rem;
+}

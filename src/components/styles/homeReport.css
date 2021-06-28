@@ -1,0 +1,37 @@
+.homeReportMain{
+    background-color: white;
+    border-radius: 15px;
+    color: #1976D2;
+    margin: 1rem;
+    padding: 1rem;
+    overflow:hidden;
+}
+
+.expense{
+    background-color: #1976D2;
+    height: 0.4rem;
+}
+
+.homeReportMainStats{
+    color: #1976D2;
+    margin-top: 2rem;
+}
+
+.homeReportMainEditOpt{
+    margin-top: 1rem;
+}
+
+.editBudgetOpt{
+    background-color: white;
+    border:solid 2px #1976D2 ;
+    border-radius: 10px;
+    padding: 0.4rem;
+    height: 1.8rem;
+    width: auto;
+}
+
+.editBudgetOpt:hover{
+    background-color:#1976D2;
+    color: white;
+}
+
